@@ -97,4 +97,4 @@ editan ke branch master. Lalu tunggu merge dari pemilik github.
 
 ## Footnote
 
-Semangat guys, H-30 hari kita mesti kelarkan ini game yang keren!! WKKWWKWKKW
+Semangat guys, H-30 hari kita mesti kelarkan ini game yang keren!!
